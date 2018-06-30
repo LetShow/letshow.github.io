@@ -31,7 +31,9 @@
 
 ### 教程
 
-#### 安装
+#### [第一课 起步](http://letshow.github.io/tutorial/1.html)
+##### 简要介绍 LetShow，以及如何下载、使用，还有基础模版等等。
+
 ```markdown
 Syntax highlighted code block
 

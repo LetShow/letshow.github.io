@@ -1,3 +1,4 @@
+[首页](http://letshow.github.io/)    [教程](http://letshow.github.io/tutorial/)   [文档](http://letshow.github.io/doc/)
 # 简介
 
 #### 英文名：LetShow
@@ -27,7 +28,6 @@
 #### 1.无需安装额外的OCX
 #### 2.文件格式为JS，可以再前端页面或者服务器端文件中直接调用
 #### 3.文件压缩后只有几十K
-
 
 ### 教程
 
